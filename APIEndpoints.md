@@ -10,4 +10,4 @@
 
 ---
 
-(./images/endpoint.webp)
+![API Diagram](./images/endpoint.webp)
