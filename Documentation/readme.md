@@ -92,4 +92,4 @@ Hackathon_2 is a dynamic e-commerce marketplace built using cutting-edge web tec
 
 ---
 
-![API Diagram](./images/api.webp)
+![API Diagram](/images/api.webp)
