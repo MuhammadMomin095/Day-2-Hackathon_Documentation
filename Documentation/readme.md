@@ -75,21 +75,4 @@ Hackathon_2 is a dynamic e-commerce marketplace built using cutting-edge web tec
 
 ---
 
-## How to Contribute
-
-### Branching:
-- Create a new branch for each feature or fix:
-  ```bash
-  git checkout -b feature-name
-  ```
-
-### Commit Messages:
-- Use clear and descriptive commit messages.
-  - Example: `Added product listing page with API integration.`
-
-### Pull Requests:
-- Push the branch and create a pull request for review and collaboration.
-
----
-
 ![API Diagram](/images/api.webp)
