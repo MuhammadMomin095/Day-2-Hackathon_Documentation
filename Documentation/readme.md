@@ -1,6 +1,6 @@
 
 ## Day3_API_Integration_Report
-[Day3_API_Integration_Report](Documentation/Day3_API_Integration_Report.pdf)
+[Day3_API_Integration_Report](Day3_API_Integration_Report.pdf)
 
 
 # Hackathon_2 - A Modern Marketplace Solution
