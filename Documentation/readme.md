@@ -1,6 +1,12 @@
+## Day2_SystemArchitecture
+[Day2_SystemArchitecture](Day2_SystemArchitecture.pdf)
 
 ## Day3_API_Integration_Report
 [Day3_API_Integration_Report](Day3_API_Integration_Report.pdf)
+
+## Day4_Documentation
+[Day4_Documentation](Day4_Documentation.pdf)
+
 
 
 # Hackathon_2 - A Modern Marketplace Solution
