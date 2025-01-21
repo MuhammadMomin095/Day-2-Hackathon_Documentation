@@ -1,0 +1,7 @@
+| **Test Case ID** | **Description**            | **Steps**                | **Expected Result**       | **Actual Result** | **Status** | **Remarks**        |
+|------------------|----------------------------|--------------------------|---------------------------|-------------------|------------|--------------------|
+| TC001            | Validate product listing   | Open product page        | Products displayed        | As expected       | Passed     | No issues found    |
+| TC002            | Test API error handling    | Disconnect API, refresh  | Show fallback message     | As expected       | Passed     | Graceful handling  |
+| TC003            | Check cart functionality   | Add items to cart        | Cart updates correctly    | As expected       | Passed     | No issues          |
+| TC004            | Test responsiveness layout | Resize browser window    | Layout adjusts properly   | As expected       | Passed     | Responsive verified |
+| TC005            | Lighthouse performance     | Run Lighthouse on URL    | Performance score > 90    | 92 Achieved       | Passed     | Optimized          |

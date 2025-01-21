@@ -1,3 +1,6 @@
+## Day1_Marketplace_journey
+[Day1_Marketplace_journey](Day1_Marketplace_journey.pdf)
+
 ## Day2_SystemArchitecture
 [Day2_SystemArchitecture](Day2_SystemArchitecture.pdf)
 
@@ -8,7 +11,10 @@
 [Day4_Documentation](Day4_Documentation.pdf)
 
 ## Day5_Documentation
-[Report](Report.csv)
+[Report](Testing-Report.csv)
+
+## Day6 Table of Contents Test Report case
+[Performance Testing Results](performance-testing-results.md)
 
 
 
