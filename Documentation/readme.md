@@ -23,7 +23,7 @@
 [http://hackathon-2-xi.vercel.app](http://hackathon-2-xi.vercel.app)
 
 ## CV
-[Professional_CV_Resume](Professional CV Resume.pdf)
+[Professional_CV_Resume](Professional_CV_Resume.pdf)
 
 
 
