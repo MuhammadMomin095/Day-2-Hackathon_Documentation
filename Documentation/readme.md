@@ -2,7 +2,7 @@
 [Day1_Marketplace_journey](Day1_Marketplace_journey.pdf)
 
 ## Day2_SystemArchitecture
-[Day2_SystemArchitecture](Day2_SystemArchitecture.pdf)
+[Day2_SystemArchitecture](/SystemArchitecture_Day2.md)
 
 ## Day3_API_Integration_Report
 [Day3_API_Integration_Report](Day3_API_Integration_Report.pdf)
@@ -17,13 +17,13 @@
 [Performance Testing Results](/performance-testing-results.md)
 
 ## Day7_Pitch_Deck
-[Day7_Pitch_Deck](Day7_Pitch_Deck)
+[Day7_Pitch_Deck](Day7_Pitch_Deck.pdf)
 
 ## DEPLOYMENT LINK
 [http://hackathon-2-xi.vercel.app](http://hackathon-2-xi.vercel.app)
 
 ## CV
-[Professional CV Resume](Professional CV Resume.pdf)
+[Professional_CV_Resume](Professional CV Resume.pdf)
 
 
 
