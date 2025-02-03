@@ -13,8 +13,17 @@
 ## Day5_Documentation
 [Test_Report](Testing-Report.csv)
 
-## Day6 Table of Contents Test Report case
+## Day6_Table of Contents Test Report case
 [Performance Testing Results](/performance-testing-results.md)
+
+## Day7_Pitch_Deck
+[Day7_Pitch_Deck](Day7_Pitch_Deck)
+
+## DEPLOYMENT LINK
+[http://hackathon-2-xi.vercel.app](http://hackathon-2-xi.vercel.app)
+
+## CV
+[Professional CV Resume](Professional CV Resume.pdf)
 
 
 
@@ -95,3 +104,4 @@ Hackathon_2 is a dynamic e-commerce marketplace built using cutting-edge web tec
 ---
 
 ![API Diagram](/images/api.webp)
+"# m" 
